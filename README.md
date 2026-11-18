@@ -1,4 +1,4 @@
-# AMDInfra
+# Functional Coverage Dashboard
 
 ### Backend/Frontend app for hosting & analysis of hardware Functional Coverage reports
 
